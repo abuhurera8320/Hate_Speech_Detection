@@ -1,4 +1,4 @@
-<h1 style={color:#66B2FF}>Hate_Speech_Detection</h1> 
+# Hate_Speech_Detection
 Roman Urdu Hate Speech Detection Using Deep Neural Networks
 ### We are working on a text based Classification Problem
 We have roman urdu dataset of tweets which contain two classes Offensive  and Neutral
