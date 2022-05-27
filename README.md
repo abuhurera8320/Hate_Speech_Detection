@@ -6,5 +6,5 @@ We will be using different Sequential and Attention models to solve this problem
 ### Untill now we have used pre-trained Word2vec embeddings with Bi-Directional Lstm and get 70% to 71% Accuracy
 
 ### We have applied Simple RNN's and keras embedding layer and it has out-performed Bi-Lstm with pretrained layer and give 85% accuracy
-Results untill now are not very good but we will Optiize them In Sha Allah
+
 
